@@ -454,7 +454,7 @@ footer img {
     justify-content: space-around;
     padding: 1rem 2rem;
     overflow: hidden;
-    height: 40lvh;
+    height: 80lvh;
   }
   
   .hero-content h1 {
@@ -468,8 +468,7 @@ footer img {
   }
 
   .hero-image img {
-    margin-left: -30%;
-    margin-top: 120%;
-    width: 150%;
+    margin-top: 100%;
+    width: 120%;
   }
 }
